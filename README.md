@@ -10,6 +10,8 @@ Welcome to the Marvellous project! This is currently a new repository being set 
 
 📖 **[Complete API Documentation](./API_DOCUMENTATION.md)** - Comprehensive documentation for all public APIs, functions, and components.
 
+📚 **[Documentation Guide](./DOCUMENTATION_GUIDE.md)** - Best practices and templates for documenting code in this project.
+
 ## Quick Start
 
 *Installation and setup instructions will be added here as the project develops.*
